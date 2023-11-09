@@ -33,7 +33,7 @@ void server_func()
         string message;
         char data [dataSize];
 
-        socket.receive(buffer(&data, dataSize));
+        socket.receive(buffer(data, dataSize));
         cout << "Recived: " << data << " with size: " << dataSize << "\n";
 
         message = data;
