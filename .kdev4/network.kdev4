@@ -1,0 +1,41 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0e\x00n\x00e\x00t\x00w\x00o\x00r\x00k)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Основная система=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/alexey/projects/code/network/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Основная система
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=network
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=server
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x0e\x00n\x00e\x00t\x00w\x00o\x00r\x00k\x00\x00\x00\x0e\x00n\x00e\x00t\x00w\x00o\x00r\x00k)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/alexey/projects/code/network
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Kill Before Executing Again=4194304
+Project Target=network,network
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=
