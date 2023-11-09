@@ -1,7 +1,0 @@
-/home/alexey/projects/code/network/build/CMakeFiles/network.dir
-/home/alexey/projects/code/network/build/CMakeFiles/edit_cache.dir
-/home/alexey/projects/code/network/build/CMakeFiles/rebuild_cache.dir
-/home/alexey/projects/code/network/build/CMakeFiles/list_install_components.dir
-/home/alexey/projects/code/network/build/CMakeFiles/install.dir
-/home/alexey/projects/code/network/build/CMakeFiles/install/local.dir
-/home/alexey/projects/code/network/build/CMakeFiles/install/strip.dir

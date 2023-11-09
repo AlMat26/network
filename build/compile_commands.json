@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/alexey/projects/code/network/build",
-  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -g -o CMakeFiles/network.dir/main.cpp.o -c /home/alexey/projects/code/network/main.cpp",
-  "file": "/home/alexey/projects/code/network/main.cpp",
-  "output": "CMakeFiles/network.dir/main.cpp.o"
-}
-]
